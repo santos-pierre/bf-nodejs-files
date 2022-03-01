@@ -1,0 +1,107 @@
+[
+    {
+        "prenom": "Donald",
+        "nom": "Duck",
+        "groupe": "ducks"
+    },
+    {
+        "prenom": "Daisy",
+        "nom": "Duck",
+        "groupe": "ducks"
+    },
+    {
+        "prenom": "Della",
+        "nom": "Duck",
+        "groupe": "ducks"
+    },
+    {
+        "prenom": "Riri",
+        "nom": "Duck",
+        "groupe": "enfant"
+    },
+    {
+        "prenom": "Fifi",
+        "nom": "Duck",
+        "groupe": "enfant"
+    },
+    {
+        "prenom": "Loulou",
+        "nom": "Duck",
+        "groupe": "enfant"
+    },
+    {
+        "prenom": "Balthazar",
+        "nom": "Picsou",
+        "groupe": "picsou"
+    },
+    {
+        "prenom": "Zaza",
+        "nom": "Vanderquack",
+        "groupe": "enfant"
+    },
+    {
+        "prenom": "Matilda",
+        "nom": "Picsou",
+        "groupe": "picsou"
+    },
+    {
+        "prenom": "Hortense",
+        "nom": "Picsou",
+        "groupe": "picsou"
+    },
+    {
+        "prenom": "Gédéon",
+        "nom": "Picsou",
+        "groupe": "picsou"
+    },
+    {
+        "prenom": "Léon",
+        "nom": "Sanzun",
+        "groupe": "picsou"
+    },
+    {
+        "prenom": "Géo",
+        "nom": "Trouvetou",
+        "groupe": "allié"
+    },
+    {
+        "prenom": "Flagada",
+        "nom": "Jones",
+        "groupe": "allié"
+    },
+    {
+        "prenom": "Miss",
+        "nom": "Tick",
+        "groupe": "enemie"
+    },
+    {
+        "prenom": "La Science ",
+        "nom": "Rapetou",
+        "groupe": "Les Rapetou"
+    },
+    {
+        "prenom": "La Gonflette",
+        "nom": "Rapetou",
+        "groupe": "Les Rapetou"
+    },
+    {
+        "prenom": "Burger",
+        "nom": "Rapetou",
+        "groupe": "Les Rapetou"
+    },
+    {
+        "prenom": "Poischiche",
+        "nom": "Rapetou",
+        "groupe": "Les Rapetou"
+    },
+    {
+        "prenom": "John",
+        "nom": "Doe",
+        "groupe": "test"
+    },
+    {
+        "prenom": "Archibald",
+        "nom": "Gripsou",
+        "groupe": "enemie"
+    }
+]

@@ -46,7 +46,13 @@
 								{ "prenom": "La Science ", "nom": "Rapetou" },
 								{ "prenom": "La Gonflette", "nom": "Rapetou" },
 								{ "prenom": "Burger", "nom": "Rapetou" },
-								{ "prenom": "Poischiche", "nom": "Rapetou" }
+								{ "prenom": "Poischiche", "nom": "Rapetou" },
+								{
+									"groupe": "test",
+									"membre": [
+										{ "prenom": "John", "nom": "Doe" }
+									]
+								}
 							]
 						},
 						{ "prenom": "Archibald", "nom": "Gripsou" }
