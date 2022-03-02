@@ -39,6 +39,18 @@ const getAllMembers = (data) => {
 	return memberTab;
 };
 
+const getAllMembers2 = (data) => {
+	if (data.hasOwnProperty('membre')) {
+		let memberTab = [];
+		for (const element of data['membre']) {
+			memberTab = [...memberTab, ...getAllMembers2(element)];
+		}
+		return memberTab;
+	} else {
+		return [data];
+	}
+};
+
 /**
  * Methods that permit us to write all the characters of "data/personnage.json" into a given path.
  *
@@ -84,6 +96,7 @@ const groupBy = (tabObject, property) => {
 module.exports = {
 	getCharacters,
 	getAllMembers,
+	getAllMembers2,
 	writeCharacters,
 	groupBy,
 };
